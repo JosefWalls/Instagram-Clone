@@ -16,3 +16,8 @@
   object-fit: contain;
   width: 10vw;
 }
+
+.app__signUp {
+  display: flex;
+  flex-direction: column;
+}
